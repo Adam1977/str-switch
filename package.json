@@ -1,0 +1,13 @@
+{
+  "name": "str-switch",
+  "version": "1.0.1",
+  "description": "一个简单的-/字符互转npm包",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Adam",
+  "repository" : {
+    "type" :  "git" ,
+    "url" :  "git+https://github.com/ your github url"
+  },
+  "license": "ISC"
+}
