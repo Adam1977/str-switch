@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var strSwitch = require('./lib/index.js')
 const process = require('process');
 

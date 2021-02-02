@@ -1,7 +1,10 @@
 {
   "name": "str-switch",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "一个简单的-/字符互转npm包",
+  "bin": {
+    "s-cli": "index.js"
+  },
   "main": "index.js",
   "keywords": [],
   "author": "Adam",
